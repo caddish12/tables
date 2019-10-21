@@ -3,7 +3,6 @@
 namespace LaravelEnso\Tables\app\Jobs;
 
 use Illuminate\Bus\Queueable;
-use Illuminate\Foundation\Auth\User;
 use Illuminate\Queue\SerializesModels;
 use Illuminate\Queue\InteractsWithQueue;
 use LaravelEnso\Tables\app\Exports\Excel;
